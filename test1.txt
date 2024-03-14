@@ -1,2 +1,5 @@
-city = kushalnagar
+
+
+city =mysore
+
 
